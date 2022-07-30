@@ -1,0 +1,210 @@
+* {
+    overflow: visible;
+}
+
+body  {
+    background-color:pink;         
+}
+
+div.contents {
+    background-color: honeydew;
+    /* margins , top right bottom left*/
+    margin: 3% 6% 4% 6% ;
+    padding: 15px;
+    padding-top: 0;
+    min-width: 500px;
+   
+}
+
+div.h_1 {
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    font-style: oblique;
+    min-width: 600px;
+    margin-top: 0;
+    
+}
+
+div.h_1 h1 {
+    margin-top: -20px;
+
+}
+
+
+p.khaki {
+    text-align: center;
+    color: black;
+    background-color: darksalmon;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding: 8px 25px;
+}
+
+div.khaki {
+    text-align: center;
+}
+
+p.yotsu {
+    text-align: center;
+    max-width: 520px;
+    display: inline-block;
+    font-size: 20px ;
+}
+
+div.yotsu {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: darksalmon;
+    margin-top: 10px;
+    display: inline-block;
+    padding: 8px 25px;
+    margin-bottom: 0;
+
+}
+
+
+
+
+div.line {
+    height: 1px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black ;
+}
+
+img.pic {
+    width: 100%;
+    display: block;
+    background-color: antiquewhite;
+    height: 700px;
+    object-fit: cover;
+    
+}
+
+table.img_group {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #F3CFC6c0;
+}
+
+div.img_group {
+    position: relative;
+    width: 100%;
+
+}
+
+tr.hhh {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.h {
+    vertical-align: bottom;
+}
+
+.hh {
+    vertical-align: top;
+}
+
+div.c {
+    width: 45%;
+    padding-top: 30px;
+    
+}
+
+div.c h2 {
+    text-align: center;
+    border-bottom: 6px solid orange;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    
+}
+
+
+div.c_1 {
+    display: inline-block;
+    
+}
+
+div.c_2 {
+    float: right;
+}
+
+
+
+div.idk {
+    text-align: center;
+    font-size: 20px;
+
+    
+}
+
+div.idk p {
+    display: inline-block;
+    width: 75%;
+    border: 1px solid lightgray;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+table.last_edit p.num {
+    background-color: gray;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+    box-sizing: border-box;
+    border-radius: 50%;
+    color: azure;
+}
+
+table.last_edit td.la {
+    padding-left: 12px;
+    font-size: 18px;
+    padding-top: 5px;
+}
+
+table.last_edit {
+    height: 40px;
+}
+
+table.last_edit td {
+    vertical-align: top;
+    height: 40px;
+}
+
+td.la {
+    padding-bottom: 0;
+    padding-top: 0;
+    vertical-align: top;
+
+    
+}
+
+table.last_edit tr {
+    height: 20px;
+  
+}
+
+div.last {
+    overflow: auto;
+}

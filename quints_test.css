@@ -1,3 +1,4 @@
+
 * {
     overflow: visible;
 }
@@ -12,23 +13,12 @@ div.contents {
     padding: 5px;
     padding-top: 0;
     overflow: visible;
-
    
 }
 
-div.h_1 {
+h1 {
     text-align: center;
-    font-size: 10px;
-    font-weight: bold;
-    font-style: oblique;
-    min-width: 600px;
-    margin-top: 0;
-    
-}
-
-div.h_1 h1 {
-    margin-top: -20px;
-
+    font-size: 25px;
 }
 
 
@@ -45,6 +35,11 @@ p.khaki {
 }
 
 div.khaki {
+    text-align: center;
+    display: block;
+}
+
+div.h_1 {
     text-align: center;
 }
 
